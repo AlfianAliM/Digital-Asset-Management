@@ -13,8 +13,7 @@ from googleapiclient.http import MediaIoBaseDownload
 # --- Konfigurasi Halaman ---
 st.set_page_config(
     page_title="Pencari Konten Gambar",
-    page_icon="🖼️",
-    layout="wide"
+    page_icon="🖼️"
 )
 
 # --- PERUBAHAN 1: Fungsi Bantuan untuk GCP/Google Drive ---
